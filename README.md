@@ -14,6 +14,16 @@ Nice HOC to inline SVG that's available at a URL. Handles all your ajax and rend
 
 ### Menus & Nav
 
+#### [React Helmet](https://www.npmjs.com/package/react-helmet)
+
+Awesome component that you can use to inject/modify the document head w/ contextually-available data inside your components.
+
 #### [React Scrollspy](https://www.npmjs.com/package/react-scrollspy)
 
 A dead-simple component to add an 'active class' on menu items when their respective anchored section enters the viewport.
+
+### UI
+
+#### [React Tooltip](https://www.npmjs.com/package/react-tooltip)
+
+Easy way to use tooltips in your React app.
